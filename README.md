@@ -1,6 +1,6 @@
 # Web Scraper for hltv.org
 
-## Scrapes all player statistic from https://www.hltv.org/stats/players
+## Scrapes all player stats from https://www.hltv.org/stats/players
  * **615** players             (**6** column)
  
  ![players](players.png)
